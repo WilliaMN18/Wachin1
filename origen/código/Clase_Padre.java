@@ -10,7 +10,6 @@ package Codigo;
  * @author Usuario
  */
 public class Clase_Padre {a
-     / /Buenashacer la clase principal abstracta
     private String cedula;
     private String nombre;
     private String Apellido;
